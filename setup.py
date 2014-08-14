@@ -18,6 +18,7 @@ setup(name='data_hacks',
       download_url="http://github.com/downloads/bitly/data_hacks/data_hacks-%s.tar.gz" % version,
       scripts = ['data_hacks/histogram.py', 
                 'data_hacks/ninety_five_percent.py',
+                'data_hacks/ninety_nine_percent.py',
                 'data_hacks/run_for.py',
                 'data_hacks/bar_chart.py',
                 'data_hacks/sample.py']
